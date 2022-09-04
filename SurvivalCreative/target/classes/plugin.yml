@@ -1,0 +1,7 @@
+name: SurvivalCreative
+version: '1.0-SNAPSHOT'
+main: me.gonzalociocca.survivalcreative.SurvivalCreative
+api-version: 1.19
+authors: [ GonzaloCiocca ]
+description: Creative Mode for Survival Explicit
+website: www.dragonmu.com.ar
